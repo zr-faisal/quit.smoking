@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, QuitSmokingApplicationActivity!</string>
+    <string name="app_name">Quit Smoking Application</string>
+    <string name="login_tv_loginyouraccount">Login in your account</string>
+    <string name="login_et_usernameemail">Username / Email Address</string>
+    <string name="login_et_password">Password</string>
+    <string name="login_tv_notregister">Not Register Yet? Register Now.</string>
+    <string name="login_button_signup">Sign Up Now!</string>
+    <string name="login_tv_signinsocial">Sign In Social Network!</string>
+    <string name="login_button_facebook">Facebook</string>
+    <string name="login_button_twitter">Twitter</string>
+    <string name="login_button_googleplus">Google +</string>
+    <string name="login_btn_signin">Sign In</string>
+    <string name="tabs">Homepage Tabs</string>
+    <string name="signup_spinner_age">How old are you?</string>
+    <string name="age">How old are you?</string>
+    <string name="noti_tv_moti">What are your main motivations to smoke ?</string>
+    <string name="noti_cb_moti_pleasure">Pleasure</string>
+    <string name="noti_cb_moti_nicotine">Addiction to Nicotine</string>
+    <string name="noti_cb_moti_weightloss">Weight Loss</string>
+    <string name="noti_cb_moti_relaxation">Relaxation</string>
+    <string name="noti_cb_moti_beingsmart">Being Smart</string>
+    <string name="noti_cb_other">Other</string>
+ 
+ 	<string-array name="age">
+ 		
+ 		<item> 0-19 Years </item>
+ 		<item> 20-29 Years </item>
+ 		<item> 30-49 Years </item>
+ 		<item> 50 Up Years </item>
+ 		 	
+ 	</string-array>
+ 		<string name="noti_tv_currentstate">"Depending on your survey "</string>
+ 		<string name="noti_tv_curren">After analysis your given information in the survey your health condition is now in major situation. As your habit is to smoke one packet cigarette perday you have lost every day 20(approx 20 cigarrate in a packete)*11(decrease 11min from your life) = xxx min/hour. As you are having cigareete more than XXX Years you have lost X year. Their have extreme possibility to have x,y,z,a,b,c diseases. So, you need to quit smoking as soon as possible.</string>
+ 		<string name="noti_tv_today">You have taken x cigarete today. So in this day you have lost x * 11 = hours. Do you want to loose this time more ?</string>
+ 		<string name="universal_tv_title">All smoker should follow this guideline for better life:</string>
+ 		<string name="universal_tv_g1">Guideline1</string>
+ 		<string name="universal_tv_g2">Guideline 2</string>
+ 		<string name="universal_tv_g3">Guideline3</string>
+ 		<string name="universal_tv_g4">Guideline 4</string>
+ 		<string name="depending_tv_title">After analysis your condition doctor have suggested to follow below rules and regulation for better and healthy life:</string>
+ 		<string name="aware_btn_article">Article</string>
+ 		<string name="aware_btn_news">News</string>
+ 		<string name="aware_btn_stories">Stories</string>
+ 		<string name="aware_btn_jokes">Jokes</string>
+ 		<string name="aware_tv_jokes1">A guy is standing on the corner of the street smoking one cigarette after another. A lady walking by notices him and says \"Hey, don\'t you know that those things can kill you? I mean, didn\'t you see the giant warning on the box?! \"That\'s OK. says the guy, puffing casually ! I m a computer programmer . So? What\'s that got to do with anything? We don\'t care about warnings. We only care about errors.</string>
+ 		<string name="disease_tv_image1">"Disease : "</string>
+ 		<string name="disease_tv_info">Information : This is an disease which is caused because of smoking. It\'s name is \"X\" . It happes after having too much smoking.</string>
+ 		<string name="disease_tv_syntoms">Syntoms : Syntoms of this disease is abc, bcd, cxy , asf etc.</string>
+ 		<string name="live_tv_doctor">Get Live Help From DOCTOR</string>
+ 		<string name="live_btn_videocall">Video Call</string>
+ 		<string name="live_btn_message">Sent Message</string>
+ 		<string name="live_btn_medicine">Save Medicine</string>
+ 		<string name="medicine_tv_medicinedate">DATE : 12 December 2011</string>
+ 		<string name="medicine_tv_name">Medicine :</string>
+ 		<string name="medicine_tv_nameA">Medicine A</string>
+ 		<string name="reg_btn_fname">Firstname</string>
+ 		<string name="reg_et_lname">Lastname</string>
+ 		<string name="reg_tv_usernaem">Username</string>
+ 		<string name="reg_et_email">Email Address</string>
+ 		<string name="homepage_btn_noti">Notification</string>
+ 		<string name="homepage_btn_survey">Survey</string>
+ 		<string name="homepage_btn_depGuide">Guideline (Depending on your status)</string>
+ 		<string name="homepage_btn_universalGuide">Guideline (For everyone who smoke)</string>
+ 		<string name="homepage_btn_awareness">Awareness</string>
+ 		<string name="homepage_btn_virtualSmoking">Virtual Smoking</string>
+ 		<string name="homepage_btn_disease">Disease with Picture, info and Symptoms</string>
+ 		<string name="homepage_btn_medicinebox">Medicine Box</string>
+ 		<string name="homepage_btn_graphic">Graphical Representation</string>
+   
+    
+</resources>

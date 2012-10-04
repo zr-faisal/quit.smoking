@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/Homepage_button_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/homepage_btn_noti" />
+
+    <Button
+        android:id="@+id/Homepage_button_survey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/homepage_btn_survey" />
+
+    <Button
+        android:id="@+id/Homepage_button_depending"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/homepage_btn_depGuide" />
+
+    <Button
+        android:id="@+id/Homepage_button_universal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/homepage_btn_universalGuide" />
+
+    <Button
+        android:id="@+id/Homepage_button_awareness"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/homepage_btn_awareness" />
+
+    <Button
+        android:id="@+id/Homepage_button_virtualsmoking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/homepage_btn_virtualSmoking" />
+
+    <Button
+        android:id="@+id/Homepage_button_Disease"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/homepage_btn_disease" />
+
+    <Button
+        android:id="@+id/Homepage_button_LiveDoctor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/live_tv_doctor" />
+
+    <Button
+        android:id="@+id/Homepage_button_Medicine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/homepage_btn_medicinebox" />
+
+    <Button
+        android:id="@+id/Homepage_button_Graphical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/homepage_btn_graphic" />
+
+</LinearLayout>
